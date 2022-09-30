@@ -1,0 +1,11 @@
+.header__lang-link{
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    transition: opacity .3s;
+}

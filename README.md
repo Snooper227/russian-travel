@@ -15,4 +15,4 @@
 **Картинки**
 
 **Ссылка_на_GitPages**
-*[Ссылка на website](https://snooper227.github.io/travel/)
+*[Ссылка на website](https://snooper227.github.io/russian-travel/)

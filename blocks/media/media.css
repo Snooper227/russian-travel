@@ -272,7 +272,7 @@
         display: grid;
         grid-template-columns: min-content(158px);
         grid-template-rows: repeat(5, 24px);
-        gap: 32px
+        gap: 32px;
     }
     .footer__link{
         font-size: 24px;

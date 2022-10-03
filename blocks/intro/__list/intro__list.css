@@ -1,4 +1,4 @@
-.intro__list{
+.intro__list {
     max-width: 100%;
     margin: 0;
     padding: 0;
@@ -6,6 +6,6 @@
     line-height: 18px;
     text-align: start;
     list-style-type: none;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
 }

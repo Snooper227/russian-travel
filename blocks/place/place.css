@@ -1,9 +1,8 @@
 .place {
     max-width: 984px;
-    max-height: 660px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, auto));
-    grid-template-rows: repeat(1fr, 460px);
+    grid-template-rows: 1fr 460px;
     gap: 40px 48px;
     margin: 0;
 }
@@ -11,7 +10,6 @@
 @media screen and (min-width: 1024px) and (max-width:1279px) {
     .place {
         min-width: 928px;
-        max-height: 640px;
         width: 100%;
         height: 100%;
         gap: 32px 48px;
@@ -21,7 +19,6 @@
 @media screen and (min-width: 768px) and (max-width:1023px) {
     .place {
         min-width: 720px;
-        max-height: 581px;
         gap: 28px 48px;
         grid-template-columns: repeat(2, minmax(340px, auto));
     }
@@ -30,9 +27,8 @@
 @media screen and (min-width: 320px) and (max-width:767px) {
     .place {
         min-width: 320px;
-        max-height: 100%;
-        grid-template-columns:  minmax(320px, auto);
-        grid-template-rows: 1fr 1fr minmax(320px, auto) minmax(320px, auto);
+        grid-template-columns: minmax(320px, auto);
+        grid-template-rows: minmax(35px, auto) minmax(46px, auto) minmax(320px, auto) minmax(320px, auto);
         gap: 32px;
     }
 }

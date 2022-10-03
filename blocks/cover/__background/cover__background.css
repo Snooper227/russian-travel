@@ -1,6 +1,6 @@
 .cover__background {
-    min-width: 1184px;
-    min-height: calc((100vw - 96px)/1.6);
+    max-width: 1184px;
+    min-height: 740px;
     text-decoration: none;
     background: url("../../../images/__background.png");
     background-repeat: no-repeat;
@@ -26,28 +26,34 @@
     opacity: .3;
 }
 
-.cover__background::before:hover {
+.cover__background:hover::before {
     opacity: .8;
 }
 
 @media screen and (min-width: 1024px) and (max-width:1279px) {
     .cover__background {
-        min-width: 1024px;
-        min-height: calc(100vw/1.6);
+        width: 100%;
+        max-width: 1279px;
+        height: calc(100vw/1.6);
+        min-height: 640px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width:1023px) {
     .cover__background {
-        min-width: 768px;
-        min-height: calc(100vw/1.6);
+        width: 100%;
+        max-width: 1023px;
+        height: calc(100vw/1.6);
+        min-height: 480px;
     }
 }
 
 @media screen and (min-width: 320px) and (max-width:767px) {
     .cover__background {
-        min-width: 320px;
-        min-height: calc(100vw/1.6);
+        width: 100%;
+        max-width: 767px;
+        height: calc(100vw/1.6);
+        min-height: 200px;
         margin: 0;
     }
 }

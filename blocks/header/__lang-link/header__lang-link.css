@@ -1,19 +1,26 @@
 .header__lang-link {
-    color: white;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    margin-right: 18px;
-    text-decoration-line: none;
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
-    transition: opacity .3s;
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration-line: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  transition: opacity .3s;
+  margin: 0;
+  padding: 0;
+  margin-right: 18px;
+  align-self: end;
+}
+
+.header__lang-link:last-of-type {
+  margin: 0;
 }
 
 @media screen and (min-width: 320px) and (max-width:767px) {
-    .header__lang-link {
-        font-size: 18px;
-        line-height: 20px;
-    }
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }

@@ -16,7 +16,7 @@
     .places {
         min-width: 720px;
         margin: 0 24px;
-        row-gap: 72px;
+        gap: 73px;
     }
 }
 
@@ -24,6 +24,6 @@
     .places {
         min-width: 320px;
         margin: 0;
-        grid-gap: 50px;
+        gap: 50px;
     }
 }

@@ -14,7 +14,7 @@
 
 <h2 align="center" >Картинки</h3>
 
-<div align="center"><img width="460" height="300" src="./images/1.png" alt='Фото проекта'></div>
+<div align="center" margin-bottom='20px'><img width="460" height="300" src="./images/1.png" alt='Фото проекта'></div>
 <div align="center"><img width="460" height="300" src="./images/2.png" alt='Фото проекта'></div>
 <div align="center"><img width="460" height="300" src="./images/3.png" alt='Фото проекта'></div>
 <div align="center"><img width="460" height="300" src="./images/4.png" alt='Фото проекта'></div>

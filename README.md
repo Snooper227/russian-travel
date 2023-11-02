@@ -14,13 +14,19 @@
 
 <h2 align="center" >Картинки</h3>
 
-<div align="center" margin-bottom='20px'><img width="460" height="300" src="./images/1.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/1.png" alt='Фото проекта'></div>
+
 <div align="center"><img width="460" height="300" src="./images/2.png" alt='Фото проекта'></div>
+
 <div align="center"><img width="460" height="300" src="./images/3.png" alt='Фото проекта'></div>
+
 <div align="center"><img width="460" height="300" src="./images/4.png" alt='Фото проекта'></div>
+
 <div align="center"><img width="460" height="300" src="./images/5.png" alt='Фото проекта'></div>
+
 <div align="center"><img width="460" height="300" src="./images/6.png" alt='Фото проекта'></div>
+
 <div align="center"><img width="460" height="300" src="./images/7.png" alt='Фото проекта'></div>
 
 <h2>Ссылка на проект</h2>
-*[https://snooper227.github.io/russian-travel/](https://snooper227.github.io/russian-travel/)
+<a href='https://snooper227.github.io/russian-travel/' target='_blank'>Russian-Travel</a>

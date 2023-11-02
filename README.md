@@ -1,18 +1,26 @@
-# Проект: Путешествие по России
+<h1 align="center" >Проект: Путешествия по России</h1>
 
-### Обзор
-* Интро
-* Figma
-* Адаптивная верстка
-* Создание публичного сайта
+<h2 align="center" >Обзор</h2>
 
-**Интро**
+<p>Figma</p>
+<p>Адаптивная верстка</p>
+<p>Создание публичного сайта</p>
 
-Здесь о путешествии по России.
+<h2 align="center" >О проекте</h2>
+
+<p>Здесь о путешествии по России.
 Была проделана работа с макетом на Фигма, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот был проект сложнее предыдущих, но интереснее.
+Этот был проект сложнее предыдущих, но интереснее.</p>
 
-**Картинки**
+<h2 align="center" >Картинки</h3>
 
-**Ссылка_на_GitPages**
-*[Ссылка на website](https://snooper227.github.io/russian-travel/)
+<div align="center"><img width="460" height="300" src="./images/1.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/2.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/3.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/4.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/5.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/6.png" alt='Фото проекта'></div>
+<div align="center"><img width="460" height="300" src="./images/7.png" alt='Фото проекта'></div>
+
+<h2>Ссылка на проект</h2>
+*[https://snooper227.github.io/russian-travel/](https://snooper227.github.io/russian-travel/)
